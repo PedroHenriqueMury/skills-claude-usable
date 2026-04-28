@@ -68,11 +68,9 @@ Realizar pesquisas acadêmicas e gerar textos estruturados que atendam aos padr�
 
 
 
-1\. Copie o conteúdo do arquivo `skill.md`
+1\. Importe para dentro da aba Habilidades no Claude IA o arquivo `academic-researcher.skill`
 
-2\. Cole no Claude (ou outro LLM compatível)
-
-3\. Insira o tema ou pergunta desejada
+2\. Insira o tema ou pergunta desejada
 
 
 
